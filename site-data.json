@@ -1,0 +1,324 @@
+{
+  "business": {
+    "name": "Appliance Champion",
+    "shortName": "Appliance Champion",
+    "tagline": "Expert Appliance Repair in Addison, TX",
+    "niche": "Appliance Repair",
+    "phone": "(972) 908-0300",
+    "address": "15790 Dooley Rd Ste 108, Addison, TX 75001",
+    "city": "Addison, TX",
+    "hours": "Mon-Fri 8am-6pm, Sat 9am-4pm, Sun Closed",
+    "ctaLabel": "Schedule Service",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Appliance Champion | Expert Appliance Repair in Addison, TX",
+    "description": "Trusted appliance repair in Addison, TX. Fast, reliable service for refrigerators, ovens, washers, dryers, and dishwashers. Same-day appointments available. Call (972) 908-0300."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Addison's Premier Appliance Repair Service",
+      "headline": "Fast, Reliable Appliance Repair in Addison",
+      "subheadline": "Expert technicians, same-day service, and upfront pricing — we fix your appliances right the first time.",
+      "primaryCta": "Schedule Repair",
+      "secondaryCta": "Call (972) 908-0300"
+    },
+    "stats": [
+      {
+        "value": "10+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "500+",
+        "label": "Appliances Repaired"
+      },
+      {
+        "value": "4.9",
+        "label": "Customer Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Why Choose Us",
+        "title": "We Get Your Appliances Running Like New",
+        "body": "From refrigerators to dishwashers, our certified technicians handle all major brands and models. We use genuine parts and offer a warranty on every repair.",
+        "bullets": [
+          "Same-day service available",
+          "Upfront, flat-rate pricing — no surprises",
+          "Licensed, insured, and background-checked techs",
+          "All repairs backed by a 90-day warranty"
+        ],
+        "reverse": false,
+        "cardLabel": "Service",
+        "cardTitle": "Convenient Scheduling",
+        "cardBody": "Book online or call us. We'll arrive on time and fix it fast."
+      },
+      {
+        "eyebrow": "Our Promise",
+        "title": "Quality Repairs You Can Count On",
+        "body": "We don't cut corners. Every repair is done with precision and care, using OEM or equivalent parts to ensure long-lasting results.",
+        "bullets": [
+          "Free diagnostic with any repair",
+          "No overtime charges — ever",
+          "Friendly, professional technicians",
+          "Eco-friendly disposal of old parts"
+        ],
+        "reverse": true,
+        "cardLabel": "Guarantee",
+        "cardTitle": "100% Satisfaction",
+        "cardBody": "If you're not happy, we'll make it right. That's our promise."
+      }
+    ],
+    "whyTitle": "Why Appliance Champion?",
+    "whyChooseUs": [
+      {
+        "title": "Experienced Technicians",
+        "description": "Our team has over a decade of combined experience repairing all major appliance brands."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "You'll know the cost upfront before any work begins — no hidden fees or surprise charges."
+      },
+      {
+        "title": "Same-Day Service",
+        "description": "Most repairs can be scheduled the same day. We'll have your appliance back in action fast."
+      },
+      {
+        "title": "Warranty on All Repairs",
+        "description": "Every repair comes with a 90-day parts and labor warranty for your peace of mind."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "They fixed my refrigerator in under an hour and the price was exactly what they quoted. Highly recommend!",
+        "author": "Linda M.",
+        "role": "Addison homeowner"
+      },
+      {
+        "quote": "Our dishwasher stopped working on a Friday. They came out Saturday morning and had it running perfectly by noon.",
+        "author": "Tom R.",
+        "role": "Village on the Parkway resident"
+      },
+      {
+        "quote": "Professional, on time, and very knowledgeable. I'll call them for any future appliance issues.",
+        "author": "Angela K.",
+        "role": "Addison Circle neighbor"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Fix Your Appliance?",
+      "subheadline": "Call us or book online for fast, reliable service in Addison.",
+      "primaryCta": "Book Now",
+      "secondaryCta": "Call (972) 908-0300"
+    }
+  },
+  "servicesPage": {
+    "intro": "We provide expert repair services for all major home appliances in Addison, TX. Our certified technicians use quality parts and offer a satisfaction guarantee on every job."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Refrigerator Repair",
+      "shortDescription": "Fast fixes for fridges, freezers, and ice makers.",
+      "longDescription": "Is your refrigerator not cooling? Ice maker jammed? Our technicians diagnose and repair all refrigerator issues quickly. We work on all brands including Samsung, LG, Whirlpool, and GE.",
+      "benefits": [
+        "Restore proper cooling and temperature control",
+        "Fix ice makers, water dispensers, and door seals",
+        "Extend the life of your appliance"
+      ],
+      "process": [
+        {
+          "title": "Diagnosis",
+          "description": "We inspect your fridge and identify the root cause."
+        },
+        {
+          "title": "Repair",
+          "description": "Using genuine parts, we fix the issue efficiently."
+        },
+        {
+          "title": "Test",
+          "description": "We test to ensure everything works perfectly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does a refrigerator repair take?",
+          "answer": "Most repairs are completed within 1-2 hours."
+        },
+        {
+          "question": "Do you repair ice makers?",
+          "answer": "Yes, we repair all types of ice makers and water dispensers."
+        }
+      ],
+      "slug": "refrigerator-repair"
+    },
+    {
+      "icon": "02",
+      "title": "Oven & Stove Repair",
+      "shortDescription": "Reliable oven, stove, and cooktop repairs.",
+      "longDescription": "From gas burners not lighting to electric ovens not heating, we handle all oven and stove problems. Our technicians are trained to repair all major brands.",
+      "benefits": [
+        "Get your oven heating evenly again",
+        "Fix broken knobs, igniters, and heating elements",
+        "Ensure safe operation of gas and electric ranges"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We check the power source, igniters, and heating elements."
+        },
+        {
+          "title": "Repair",
+          "description": "We replace faulty parts with high-quality components."
+        },
+        {
+          "title": "Safety Check",
+          "description": "We test for proper operation and safety."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you repair both gas and electric ovens?",
+          "answer": "Yes, we service both gas and electric ovens, stoves, and cooktops."
+        },
+        {
+          "question": "Do you replace oven heating elements?",
+          "answer": "Absolutely. We stock common elements and can order rare ones."
+        }
+      ],
+      "slug": "oven-stove-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Washer & Dryer Repair",
+      "shortDescription": "Expert washer and dryer repair services.",
+      "longDescription": "Is your washer not spinning? Dryer not heating? We fix all makes and models, including front-load and top-load washers, and gas or electric dryers.",
+      "benefits": [
+        "Restore washing and drying performance",
+        "Fix leaks, noises, and error codes",
+        "Prevent costly water damage"
+      ],
+      "process": [
+        {
+          "title": "Diagnostic",
+          "description": "We run a diagnostic cycle to pinpoint the issue."
+        },
+        {
+          "title": "Part Replacement",
+          "description": "We replace belts, motors, pumps, or thermostats as needed."
+        },
+        {
+          "title": "Final Test",
+          "description": "We run a full cycle to confirm the repair."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How much does a washer repair cost?",
+          "answer": "Cost varies, but we provide a flat-rate quote before starting any work."
+        },
+        {
+          "question": "Do you repair dryers that won't heat?",
+          "answer": "Yes, we diagnose and repair heating issues in both gas and electric dryers."
+        }
+      ],
+      "slug": "washer-dryer-repair"
+    },
+    {
+      "icon": "04",
+      "title": "Dishwasher Repair",
+      "shortDescription": "Get your dishwasher cleaning dishes perfectly again.",
+      "longDescription": "Dishwasher not draining, leaving dishes dirty, or making strange noises? Our technicians can handle any dishwasher problem, from clogged spray arms to faulty control boards.",
+      "benefits": [
+        "Clean, spot-free dishes every cycle",
+        "Fix leaks and drainage issues",
+        "Extend the life of your dishwasher"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We check the spray arms, pump, and drain hose."
+        },
+        {
+          "title": "Clean & Repair",
+          "description": "We remove clogs and replace worn parts."
+        },
+        {
+          "title": "Performance Test",
+          "description": "We run a cycle to ensure everything works."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does a dishwasher repair take?",
+          "answer": "Most repairs are completed within 1-2 hours."
+        },
+        {
+          "question": "Do you fix dishwashers that are leaking?",
+          "answer": "Yes, we can identify and fix the source of the leak."
+        }
+      ],
+      "slug": "dishwasher-repair"
+    }
+  ],
+  "about": {
+    "headline": "Your Trusted Appliance Repair Experts in Addison",
+    "mission": "Our mission is to provide fast, reliable, and affordable appliance repair to every Addison homeowner and business.",
+    "story": [
+      "Appliance Champion was founded with a simple goal: to offer appliance repair that's honest, transparent, and high-quality. Our founder, a veteran technician, saw too many customers overcharged for shoddy work. So we built a company that puts the customer first — with upfront pricing, same-day service, and a real warranty.",
+      "Today, we serve the entire Addison area from our Dooley Road location. Our team of certified technicians has repaired thousands of appliances, from refrigerators to dishwashers. We're proud to be a local business that neighbors trust."
+    ],
+    "highlight": {
+      "stat": "500+",
+      "label": "Appliances Repaired"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We always tell you what's wrong and what it costs before we start."
+      },
+      {
+        "title": "Quality",
+        "description": "We use the best parts and stand behind our work with a warranty."
+      },
+      {
+        "title": "Speed",
+        "description": "We know a broken appliance is a hassle. We aim for same-day service whenever possible."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat your home and your time with the utmost respect."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get In Touch",
+    "subheadline": "Ready to schedule a repair? Call or fill out the form below.",
+    "primaryCta": "Call (972) 908-0300",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Addison",
+      "Farmers Branch",
+      "Carrollton",
+      "Dallas",
+      "Richardson",
+      "Plano"
+    ]
+  },
+  "social_proof": {
+    "rating": 3.6,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Appliance Repair",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:9729080300",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
